@@ -1,4 +1,5 @@
 
-apitests/utils/__pycache__/
+apitests/.pytest_cache
 
 apitests/tests/__pycache__/
+
