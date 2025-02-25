@@ -1,3 +1,4 @@
+import pytest
 from apitests.utils.api_client import get_booking
 
 def test_get_booking():
