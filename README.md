@@ -63,7 +63,7 @@ The collection covers the following test scenarios:
 ### Prerequisites 
 
 Ensure the latest version of python is installed.
-`
+
 
 ### Install pytest
 
