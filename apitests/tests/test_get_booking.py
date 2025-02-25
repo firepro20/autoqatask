@@ -1,5 +1,5 @@
 import pytest
-from apitests.utils.api_client import get_booking
+from api_client import get_booking
 
 def test_get_booking():
     booking_id = 1
